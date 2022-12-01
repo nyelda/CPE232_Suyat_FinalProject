@@ -84,8 +84,8 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-family: 'Arial', Arial;
+		font-size: 21pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -1912,7 +1912,7 @@ input, select, textarea {
 	}
 
 		table tbody tr:nth-child(2n+2) {
-			background: #f4f4f4;
+			background: #a37d7d;
 		}
 
 		table td {
@@ -2219,7 +2219,7 @@ input, select, textarea {
 
 			#main > section.dark {
 				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(124, 39, 39, 0.75);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2237,7 +2237,7 @@ input, select, textarea {
 				}
 
 					#main > section.dark a:hover {
-						border-bottom-color: rgba(255, 255, 255, 0);
+						border-bottom-color: rgba(220, 20, 25, 0);
 					}
 
 			#main > section.cover {
